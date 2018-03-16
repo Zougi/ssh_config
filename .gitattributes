@@ -1,1 +1,2 @@
-testdata/dos-lines eol=crlf
+testdata/** text eol=lf
+testdata/dos-lines text eol=crlf
